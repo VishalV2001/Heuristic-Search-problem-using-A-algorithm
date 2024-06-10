@@ -23,36 +23,7 @@ The study demonstrates that A* is a reliable way to navigate the given maze's di
 ## Demo Video
 
 
-## How to Run the Project
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repo-name
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the A* algorithm on the maze:
-    ```bash
-    python astar_algorithm.py
-    ```
 
-## Repository Structure
-- `data/`: Contains any necessary data files.
-- `src/`: Contains the source code for the A* algorithm and maze representation.
-- `notebooks/`: Jupyter notebooks for exploration and visualization.
-- `results/`: Contains the results of the experiments.
-- `README.md`: Project overview and instructions.
+https://github.com/VishalV2001/Heuristic-Search-problem-using-A-algorithm/assets/172289308/dc555c8e-e47e-4ee9-8cc7-62c0f2d35c29
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Acknowledgements
-Special thanks to Russell et al. (2021) for their contributions to the problem statement and the heuristic functions used in this study.
-
-## Contact
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
