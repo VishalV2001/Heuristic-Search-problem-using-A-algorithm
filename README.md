@@ -20,6 +20,9 @@ A* is praised for its heuristic-guided efficiency, making it ideal for situation
 ## Results
 The study demonstrates that A* is a reliable way to navigate the given maze's dimensions and boundaries, successfully finding the shortest path from the starting point to the destination.
 
+## Demo Video
+
+
 ## How to Run the Project
 1. Clone this repository:
     ```bash
